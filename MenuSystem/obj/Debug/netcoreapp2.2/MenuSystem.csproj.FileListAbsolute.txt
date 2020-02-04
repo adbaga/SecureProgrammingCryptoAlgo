@@ -1,0 +1,8 @@
+/Users/kalevkim/secureprogramming/ConsoleApp1/MenuSystem/bin/Debug/netcoreapp2.2/MenuSystem.deps.json
+/Users/kalevkim/secureprogramming/ConsoleApp1/MenuSystem/bin/Debug/netcoreapp2.2/MenuSystem.dll
+/Users/kalevkim/secureprogramming/ConsoleApp1/MenuSystem/bin/Debug/netcoreapp2.2/MenuSystem.pdb
+/Users/kalevkim/secureprogramming/ConsoleApp1/MenuSystem/obj/Debug/netcoreapp2.2/MenuSystem.csprojAssemblyReference.cache
+/Users/kalevkim/secureprogramming/ConsoleApp1/MenuSystem/obj/Debug/netcoreapp2.2/MenuSystem.AssemblyInfoInputs.cache
+/Users/kalevkim/secureprogramming/ConsoleApp1/MenuSystem/obj/Debug/netcoreapp2.2/MenuSystem.AssemblyInfo.cs
+/Users/kalevkim/secureprogramming/ConsoleApp1/MenuSystem/obj/Debug/netcoreapp2.2/MenuSystem.dll
+/Users/kalevkim/secureprogramming/ConsoleApp1/MenuSystem/obj/Debug/netcoreapp2.2/MenuSystem.pdb

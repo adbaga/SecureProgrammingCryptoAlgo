@@ -1,0 +1,58 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/kalevkim/secureprogramming/ConsoleApp1/pleaseWork/pleaseWork.csproj",
+    "projectName": "pleaseWork",
+    "projectPath": "/Users/kalevkim/secureprogramming/ConsoleApp1/pleaseWork/pleaseWork.csproj",
+    "outputPath": "/Users/kalevkim/secureprogramming/ConsoleApp1/pleaseWork/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/Users/kalevkim/secureprogramming/ConsoleApp1/CryptoAlgo/CryptoAlgo.csproj": {
+            "projectPath": "/Users/kalevkim/secureprogramming/ConsoleApp1/CryptoAlgo/CryptoAlgo.csproj"
+          },
+          "/Users/kalevkim/secureprogramming/ConsoleApp1/MenuSystem/MenuSystem.csproj": {
+            "projectPath": "/Users/kalevkim/secureprogramming/ConsoleApp1/MenuSystem/MenuSystem.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

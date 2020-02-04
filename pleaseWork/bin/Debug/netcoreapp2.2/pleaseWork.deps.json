@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "pleaseWork/1.0.0": {
+        "dependencies": {
+          "CryptoAlgo": "1.0.0",
+          "MenuSystem": "1.0.0"
+        },
+        "runtime": {
+          "pleaseWork.dll": {}
+        }
+      },
+      "CryptoAlgo/1.0.0": {
+        "runtime": {
+          "CryptoAlgo.dll": {}
+        }
+      },
+      "MenuSystem/1.0.0": {
+        "runtime": {
+          "MenuSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pleaseWork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CryptoAlgo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MenuSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

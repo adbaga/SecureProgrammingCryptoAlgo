@@ -1,0 +1,15 @@
+/Users/kalevkim/secureprogramming/ConsoleApp1/pleaseWork/bin/Debug/netcoreapp2.2/pleaseWork.deps.json
+/Users/kalevkim/secureprogramming/ConsoleApp1/pleaseWork/bin/Debug/netcoreapp2.2/pleaseWork.runtimeconfig.json
+/Users/kalevkim/secureprogramming/ConsoleApp1/pleaseWork/bin/Debug/netcoreapp2.2/pleaseWork.runtimeconfig.dev.json
+/Users/kalevkim/secureprogramming/ConsoleApp1/pleaseWork/bin/Debug/netcoreapp2.2/pleaseWork.dll
+/Users/kalevkim/secureprogramming/ConsoleApp1/pleaseWork/bin/Debug/netcoreapp2.2/pleaseWork.pdb
+/Users/kalevkim/secureprogramming/ConsoleApp1/pleaseWork/bin/Debug/netcoreapp2.2/MenuSystem.dll
+/Users/kalevkim/secureprogramming/ConsoleApp1/pleaseWork/bin/Debug/netcoreapp2.2/MenuSystem.pdb
+/Users/kalevkim/secureprogramming/ConsoleApp1/pleaseWork/obj/Debug/netcoreapp2.2/pleaseWork.csprojAssemblyReference.cache
+/Users/kalevkim/secureprogramming/ConsoleApp1/pleaseWork/obj/Debug/netcoreapp2.2/pleaseWork.AssemblyInfoInputs.cache
+/Users/kalevkim/secureprogramming/ConsoleApp1/pleaseWork/obj/Debug/netcoreapp2.2/pleaseWork.AssemblyInfo.cs
+/Users/kalevkim/secureprogramming/ConsoleApp1/pleaseWork/obj/Debug/netcoreapp2.2/pleaseWork.csproj.CopyComplete
+/Users/kalevkim/secureprogramming/ConsoleApp1/pleaseWork/obj/Debug/netcoreapp2.2/pleaseWork.dll
+/Users/kalevkim/secureprogramming/ConsoleApp1/pleaseWork/obj/Debug/netcoreapp2.2/pleaseWork.pdb
+/Users/kalevkim/secureprogramming/ConsoleApp1/pleaseWork/bin/Debug/netcoreapp2.2/CryptoAlgo.dll
+/Users/kalevkim/secureprogramming/ConsoleApp1/pleaseWork/bin/Debug/netcoreapp2.2/CryptoAlgo.pdb

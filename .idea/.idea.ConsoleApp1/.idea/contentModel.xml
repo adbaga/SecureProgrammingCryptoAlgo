@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_ConsoleApp1.95285.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="ConsoleApp1.sln" t="IncludeFlat" />
+      <e p="CryptoAlgo" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CaesarCipher.cs" t="Include" />
+        <e p="CryptoAlgo.csproj" t="IncludeRecursive" />
+        <e p="DiffieHellman.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="CryptoAlgo.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="RSAhw2.cs" t="Include" />
+        <e p="Vigenere.cs" t="Include" />
+      </e>
+      <e p="MenuSystem" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="menu.cs" t="Include" />
+        <e p="MenuItem.cs" t="Include" />
+        <e p="MenuSystem.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="MenuSystem.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="pleaseWork" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="pleaseWork.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="pleaseWork.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

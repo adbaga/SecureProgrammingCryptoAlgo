@@ -1,0 +1,8 @@
+/Users/kalevkim/secureprogramming/ConsoleApp1/CryptoAlgo/bin/Debug/netcoreapp2.2/CryptoAlgo.deps.json
+/Users/kalevkim/secureprogramming/ConsoleApp1/CryptoAlgo/bin/Debug/netcoreapp2.2/CryptoAlgo.dll
+/Users/kalevkim/secureprogramming/ConsoleApp1/CryptoAlgo/bin/Debug/netcoreapp2.2/CryptoAlgo.pdb
+/Users/kalevkim/secureprogramming/ConsoleApp1/CryptoAlgo/obj/Debug/netcoreapp2.2/CryptoAlgo.csprojAssemblyReference.cache
+/Users/kalevkim/secureprogramming/ConsoleApp1/CryptoAlgo/obj/Debug/netcoreapp2.2/CryptoAlgo.AssemblyInfoInputs.cache
+/Users/kalevkim/secureprogramming/ConsoleApp1/CryptoAlgo/obj/Debug/netcoreapp2.2/CryptoAlgo.AssemblyInfo.cs
+/Users/kalevkim/secureprogramming/ConsoleApp1/CryptoAlgo/obj/Debug/netcoreapp2.2/CryptoAlgo.dll
+/Users/kalevkim/secureprogramming/ConsoleApp1/CryptoAlgo/obj/Debug/netcoreapp2.2/CryptoAlgo.pdb
